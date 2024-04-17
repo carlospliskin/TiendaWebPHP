@@ -1,0 +1,24 @@
+{
+    "name": "macar/tienda-online",
+    "description": "creacion de una tienda online",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "carlos paredes",
+            "email": "181100015@iztapalapa3.tecnm.mx"
+        },
+        {
+            "name": "aram irineo",
+            "email": "181100019@iztapalapa3.tecnm.mx"
+        }
+    ],
+    "require": {
+        
+    },
+    "autoload": {
+        "psr-4": {
+            "Macar\\":"src/"
+        }
+    }
+}
